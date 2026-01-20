@@ -1,0 +1,223 @@
+{
+    "OH-58D": {
+        "Take Off": [
+            "lalt",
+            "t"
+        ],
+        "Set Heading - MMS": [
+            "lalt",
+            "m"
+        ],
+        "Increase Altitude": [
+            "lalt",
+            "="
+        ],
+        "Decrease Altitude": [
+            "lalt",
+            "-"
+        ],
+        "Set 10 knt": [
+            "ralt",
+            "rshift",
+            "f1"
+        ],
+        "Set 20 knt": [
+            "ralt",
+            "rshift",
+            "f2"
+        ],
+        "Set 30 knt": [
+            "ralt",
+            "rshift",
+            "f3"
+        ],
+        "Set 40 knt": [
+            "ralt",
+            "rshift",
+            "f4"
+        ],
+        "Set 50 knt": [
+            "rshift",
+            "f5"
+        ],
+        "Set 60 knt": [
+            "ralt",
+            "rshift",
+            "f6"
+        ],
+        "Set 70 knt": [
+            "ralt",
+            "rshift",
+            "f7"
+        ],
+        "Set 80 knt": [
+            "ralt",
+            "rshift",
+            "f8"
+        ],
+        "Set 90 knt": [
+            "ralt",
+            "rshift",
+            "f9"
+        ],
+        "Set 100 knt": [
+            "ralt",
+            "rshift",
+            "f10"
+        ],
+        "Set 100 ft": [
+            "ralt",
+            "rshift",
+            "1"
+        ],
+        "Set 200 ft": [
+            "ralt",
+            "rshift",
+            "2"
+        ],
+        "Set 500 ft": [
+            "ralt",
+            "rshift",
+            "3"
+        ],
+        "Set 1000 ft": [
+            "ralt",
+            "rshift",
+            "4"
+        ],
+        "Set 2000 ft": [
+            "ralt",
+            "rshift",
+            "5"
+        ],
+        "Set 3000 ft": [
+            "ralt",
+            "rshift",
+            "6"
+        ],
+        "Set 5000 ft": [
+            "ralt",
+            "rshift",
+            "7"
+        ],
+        "Set 6000 ft": [
+            "ralt",
+            "rshift",
+            "8"
+        ],
+        "Head to 0": [
+            "lalt",
+            "lctrl",
+            "lshift",
+            "lwin",
+            "0"
+        ],
+        "Head to 10": [
+            "lalt",
+            "lctrl",
+            "lshift",
+            "lwin",
+            "1"
+        ],
+        "Head to 20": [
+            "lalt",
+            "lctrl",
+            "lshift",
+            "lwin",
+            "2"
+        ],
+        "Head to 30": [
+            "lalt",
+            "lctrl",
+            "lshift",
+            "lwin",
+            "3"
+        ],
+        "Head to 200": [
+            "lctrl",
+            "ralt",
+            "0"
+        ],
+        "Head to 210": [
+            "lctrl",
+            "ralt",
+            "1"
+        ],
+        "Head to 220": [
+            "lctrl",
+            "ralt",
+            "2"
+        ],
+        "Head to 230": [
+            "lctrl",
+            "ralt",
+            "3"
+        ],
+        "Head to 240": [
+            "lctrl",
+            "ralt",
+            "4"
+        ],
+        "Head to 250": [
+            "lctrl",
+            "ralt",
+            "5"
+        ],
+        "Head to 260": [
+            "lctrl",
+            "ralt",
+            "6"
+        ],
+        "Head to 270": [
+            "lctrl",
+            "ralt",
+            "7"
+        ],
+        "Head to 280": [
+            "lctrl",
+            "ralt",
+            "8"
+        ],
+        "Head to 290": [
+            "lctrl",
+            "ralt",
+            "9"
+        ],
+        "Head to 300": [
+            "lctrl",
+            "lshift",
+            "ralt",
+            "0"
+        ],
+        "Head to 310": [
+            "lctrl",
+            "lshift",
+            "ralt",
+            "1"
+        ],
+        "Head to 320": [
+            "lctrl",
+            "lshift",
+            "ralt",
+            "2"
+        ],
+        "Head to 330": [
+            "lctrl",
+            "lshift",
+            "ralt",
+            "3"
+        ],
+        "Head to 340": [
+            "lctrl",
+            "lshift",
+            "ralt",
+            "4"
+        ],
+        "Head to 350": [
+            "lctrl",
+            "lshift",
+            "ralt",
+            "5"
+        ]
+    }
+}

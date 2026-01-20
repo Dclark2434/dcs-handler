@@ -1,0 +1,6 @@
+google-generativeai
+faster-whisper
+SpeechRecognition
+pyaudio
+python-dotenv
+numpy

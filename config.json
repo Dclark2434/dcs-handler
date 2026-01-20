@@ -1,0 +1,19 @@
+{
+    "ears": {
+        "backend": "whisper",
+        "whisper": {
+            "model_size": "tiny.en",
+            "device": "cuda",
+            "compute_type": "float16"
+        }
+    },
+    "dcs_bios": {
+        "ip": "127.0.0.1",
+        "port": 7778
+    },
+    "brain": {
+        "api_key": "YOUR_API_KEY_HERE",
+        "model": "gemini-3-flash-preview",
+        "system_instruction": "You are the Handler. Translate natural language into JSON commands."
+    }
+}

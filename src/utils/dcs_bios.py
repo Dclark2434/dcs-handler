@@ -1,13 +1,12 @@
 import socket
 import logging
-
-BIOS_IP = '127.0.0.1'
-BIOS_PORT = 7778
+from src.utils.config_loader import load_config
 
 class DcsBiosSender:
-    def __init__(self, ip=BIOS_IP, port=BIOS_PORT):
-        self.ip = ip
-        self.port = port
+    def __init__(self):
+        config = load_config()
+        self.ip = config['dcs_bios']['ip']
+        self.port = config['dcs_bios']['port']
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         logging.info(f"DCS-BIOS Sender initialized on {self.ip}:{self.port}")
 
